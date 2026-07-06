@@ -1,4 +1,4 @@
-# 
+# Professional Docker Desktop scripts for Mac OS | Free Docker Desktop scripts for PC Windows. Featuring multi-account-support and image-builder — optimized for maximum performance on every platform.
 
 
 
